@@ -2,6 +2,11 @@
 
 > A curated list of awesome AI tools for SEO, including content optimization, keyword research, analytics, and more.
 
+### related links
+
+[There's An AI](https://theresanai.com) - [Best SEO AI Tools[](https://productivity.directory/notes/hacks](https://theresanai.com/category/seo)) - [AI Tools Blog](https://blog.theresanai.com) - [AI Newsletter](https://newsletter.theresanai.com)
+
+
 ## Contents
 
 - [Content Optimization](#content-optimization)
