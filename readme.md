@@ -4,7 +4,7 @@
 
 ### Related Links
 
-[There's An AI](https://theresanai.com) - [Best SEO AI Tools](https://theresanai.com/category/seo) - [AI Tools Blog](https://blog.theresanai.com) - [AI Newsletter](https://newsletter.theresanai.com)
+[Altern](https://altern.ai) -  [There's An AI](https://theresanai.com) - [Best SEO AI Tools](https://theresanai.com/category/seo) - [AI Tools Blog](https://blog.theresanai.com) - [AI Newsletter](https://newsletter.theresanai.com)
 
 ## Contents
 
