@@ -45,6 +45,7 @@ This list features AI tools that cover a wide range of SEO needs, including on-p
 - [Frase](https://www.frase.io/) - AI tool for content research and optimization.
 - [NeuronWriter](https://neuronwriter.com/) - Combines AI content creation with NLP and competitor insights to improve search rankings
 - [Jasper](https://www.jasper.ai/) - AI writing assistant that creates SEO-optimized content across various formats
+- [GrackerAI](https://gracker.ai/) - AI Editorial and Programtic SEO solution for B2B Cybersecurity SaaS companies.  
 
 ## Keyword Research
 
