@@ -1,4 +1,4 @@
-# Awesome AI SEO [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+# Awesome AI SEO Tools [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 Awesome-AI-SEO is a curated list of powerful AI tools and platforms designed to transform your SEO strategy. From content optimization to keyword research, AI-driven solutions are rapidly becoming essential for anyone looking to dominate search engine results. This repository gathers the most effective tools that leverage machine learning and artificial intelligence to automate and enhance key aspects of search engine optimization. Whether you are an SEO professional, digital marketer, or website owner, these tools can help you optimize your site, improve your search rankings, and increase organic traffic with greater precision and efficiency.
 
